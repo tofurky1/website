@@ -18,7 +18,7 @@ u.checkGeneratedData()
 const config = {
   title: 'Fastify',
   tagline: 'Fast and low overhead web framework, for Node.js',
-  url: 'https://fastify.io',
+  url: 'https://fastify.dev',
   baseUrl: BASE_URL,
   onBrokenLinks: 'warn',
   onBrokenMarkdownLinks: 'warn',
