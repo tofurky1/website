@@ -4,6 +4,7 @@
   "private": true,
   "scripts": {
     "docusaurus": "docusaurus",
+    "hsjd": "echo test",
     "start": "docusaurus start",
     "start:dev": "NODE_ENV=development docusaurus start",
     "build": "docusaurus build",
